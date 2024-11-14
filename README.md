@@ -7,3 +7,4 @@ Turni is a seamless passport application management system that streamlines the 
 - Actix Web
 - Apache Airflow
 - Postgres
+- RabbitMQ
