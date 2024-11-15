@@ -3,3 +3,4 @@ target/
 venv/
 logs/
 __pycache__/
+migrations/
